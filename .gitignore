@@ -1,0 +1,9 @@
+.pytest/
+.pytest_cache/
+.vscode/
+__pycache__/
+config.ini
+prefixes.json
+env/
+logs/
+requests/
